@@ -35,8 +35,10 @@ gem 'jbuilder', '2.4.1'
 # gem 'capistrano-rails', group: :development
 
 group :production do
-	  gem 'pg', '0.18.4'
+  gem 'pg', '0.18.4'
 end
+
+gem 'rails_12factor', group: :production
 
 group :development, :test do
 
