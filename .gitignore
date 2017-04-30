@@ -5,16 +5,9 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 # Ignore bundler config.
-/.bundle
-db
 log
-test
-bin
-public
 tmp
-Rakefile
-vendor
-config.ru
+
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
