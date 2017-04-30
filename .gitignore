@@ -10,8 +10,6 @@ db
 log
 test
 bin
-Gemfile
-Gemfile.lock
 public
 tmp
 Rakefile
